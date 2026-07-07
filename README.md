@@ -30,17 +30,6 @@ Currently working at **Maybank Sekuritas Indonesia**, previously delivering plat
 
 ---
 
-## 🎯 Quick Facts
-
-- 🔭 **Currently working on:** Platform Engineering initiatives at **Maybank Sekuritas Indonesia**
-- 🌱 **Currently learning:** Cilium eBPF · Crossplane · SLSA Supply Chain Security · OpenTelemetry deep-dive
-- 💬 **Ask me about:** Kubernetes at scale, GitOps, ArgoCD ApplicationSet, Cloud Cost Optimization (FinOps), DevOps/SRE career path
-- 🤝 **Open to:** Freelance consulting, technical mentoring, DevOps community talks & meetups
-- ⚡ **Fun fact:** Cut a Next.js Docker image from **~1GB → ~200MB** in one afternoon — still my proudest quick-win
-- ☕ **Powered by:** Kopi tubruk & Grafana dashboards
-
----
-
 ## 🏆 Career Highlights
 
 - 🚀 Architected and managed **200+ microservices** across production and non-production environments with **99.9% uptime** serving **3M+ users**
@@ -78,7 +67,7 @@ Currently working at **Maybank Sekuritas Indonesia**, previously delivering plat
 <img src="https://skillicons.dev/icons?i=gcp,aws" />
 </p>
 
-- Google Cloud Platform (Primary) · AWS · Oracle Cloud Infrastructure · DigitalOcean
+- Google Cloud Platform · AWS · Oracle Cloud Infrastructure · DigitalOcean
 
 ---
 
@@ -101,7 +90,7 @@ Currently working at **Maybank Sekuritas Indonesia**, previously delivering plat
 <img src="https://skillicons.dev/icons?i=terraform" />
 </p>
 
-- **Terraform** — provisioning across GCP, AWS, and OCI
+- **Terraform** — provisioning across GCP and AWS
 
 ---
 
@@ -183,51 +172,6 @@ Currently working at **Maybank Sekuritas Indonesia**, previously delivering plat
 - 📘 **Sekolah DevOps Cilsy** (2021)
 - 📗 **Dicoding**: AWS Cloud Practitioner Essentials
 - 📙 **Udemy**: Docker & Kubernetes
-
----
-
-## 📂 Featured Areas
-
-Repositories and projects showcase hands-on work with:
-
-- ☸️ Kubernetes Production Deployments & Operators
-- 🏗️ Terraform Modules & Multi-Cloud IaC
-- 🔁 GitHub Actions & GitLab CI/CD Templates
-- 🚀 ArgoCD GitOps Patterns & ApplicationSets
-- 🎯 Helm Chart Libraries
-- 📊 Monitoring, Logging & Tracing Stacks
-- 🐳 Docker Image Optimization
-- ☁️ Cloud Migration Playbooks
-- 🤖 Infrastructure Automation Scripts
-
----
-
-## ✍️ Writing & Community
-
-I share notes, patterns, and lessons learned from real-world DevOps/SRE work — mostly from incidents, migrations, and platform builds.
-
-<p>
-<a href="https://dev.to/tesastor25">
-  <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
-</a>
-<a href="https://medium.com/@tesastor25">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-</a>
-<a href="https://hashnode.com/@tesastor25">
-  <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
-</a>
-</p>
-
-**Topics I write & talk about:**
-
-- ☸️ Kubernetes patterns from real production incidents
-- 🚀 ArgoCD ApplicationSet at scale
-- 💰 Cloud cost optimization playbooks (FinOps)
-- 🔁 CI/CD templates for polyglot teams
-- 📖 Post-mortems & incident retrospectives
-- 🧪 Infrastructure automation with Terraform & Helm
-
-> 💡 *New posts drop occasionally — follow to catch them.*
 
 ---
 
