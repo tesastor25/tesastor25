@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dana Indra Gunawan</h1>
 
 <h3 align="center">
-Senior DevOps Engineer · Site Reliability Engineer · Platform Engineer
+DevOps Engineer · Site Reliability Engineer · Platform Engineer
 </h3>
 
 <p align="center">
@@ -18,7 +18,7 @@ Building scalable cloud platforms, automating software delivery, and improving s
 
 ## 👨‍💻 About Me
 
-I'm a **Senior DevOps / Site Reliability Engineer** with **5+ years** of experience designing, automating, and optimizing large-scale cloud infrastructure and CI/CD pipelines.
+I'm a **DevOps / Site Reliability Engineer / Cloud infra / Platform engineer** with **5+ years** of experience designing, automating, and optimizing large-scale cloud infrastructure and CI/CD pipelines.
 
 - ☁️ Cloud: **GCP**, **AWS**, **Oracle Cloud Infrastructure**, **DigitalOcean**
 - 🚀 Specializing in **Kubernetes**, **Platform Engineering**, **GitOps**, **CI/CD**, and **Cloud Architecture**
