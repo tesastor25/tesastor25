@@ -45,20 +45,6 @@ Currently working at **Maybank Sekuritas Indonesia**, previously delivering plat
 
 ---
 
-## 💼 Work Experience Snapshot
-
-| Company | Role | Period |
-|---|---|---|
-| **Maybank Sekuritas Indonesia** | Senior DevOps Engineer | May 2026 – Present |
-| **Elitery** *(Banksaqu, Kementerian Agama)* | Senior DevOps Engineer | Sept 2024 – May 2026 |
-| **Upwork Freelance** *(Twist UK, Synon.inc JP, Oralumi IN, Infini ID)* | Cloud Infra / DevOps Consultant | Mar 2024 – Jan 2026 |
-| **Lion Parcel** | DevOps / SRE | Apr 2023 – Feb 2024 |
-| **Delos Aqua** | DevOps / SRE | Jan 2023 – Mar 2023 |
-| **Majoo Teknologi Indonesia** | Sr. Associate Infrastructure Engineer | Sept 2021 – Jan 2023 |
-| **ICAN Education** | IT Programmer (Web) | Oct 2020 – Sept 2021 |
-
----
-
 ## 🛠 Tech Stack
 
 ### ☁️ Cloud Platforms
