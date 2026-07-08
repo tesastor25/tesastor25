@@ -20,8 +20,6 @@ Building scalable cloud platforms, automating software delivery, and improving s
 
 I'm a **Senior DevOps / Site Reliability Engineer** with **5+ years** of experience designing, automating, and optimizing large-scale cloud infrastructure and CI/CD pipelines.
 
-Currently working at **Maybank Sekuritas Indonesia**, previously delivering platform engineering for **Banksaqu**, **Kementerian Agama (Indonesian Ministry of Religion)**, **Lion Parcel**, **Majoo**, and international freelance clients across **UK**, **Japan**, **India**, and **Indonesia**.
-
 - ☁️ Cloud: **GCP**, **AWS**, **Oracle Cloud Infrastructure**, **DigitalOcean**
 - 🚀 Specializing in **Kubernetes**, **Platform Engineering**, **GitOps**, **CI/CD**, and **Cloud Architecture**
 - 🔒 Passionate about **Automation**, **Reliability**, **Security**, and **Cost Efficiency**
